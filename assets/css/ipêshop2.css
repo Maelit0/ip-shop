@@ -1,0 +1,459 @@
+* {
+    margin: 0;
+    flex-wrap: wrap;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.fundo {
+    height: auto;
+    width: auto;
+    background-color: #FFF;
+    display: flex;
+}
+
+.imagem {
+
+    display: flex;
+    font-size: 2vw;
+    height: 70px;
+    align-items: center;
+    letter-spacing: 0.015em;
+    margin-left: 58px;
+}
+
+.lateral {
+    display: flex;
+    width: 250px;
+    height: 150vh;
+    background-color: #001A49;
+    justify-content: center;
+
+}
+
+.logo {
+    height: 7px;
+    margin-top: 1pc;
+}
+
+p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+}
+
+.casa {
+    margin-top: 250px;
+    flex-direction: row;
+    display: flex;
+    margin-bottom: 30px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.mais {
+    flex-direction: row;
+    display: flex;
+    margin-bottom: 30px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.funcionarios {
+    flex-direction: row;
+    display: flex;
+    margin-bottom: 30px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.perfil {
+    flex-direction: row;
+    display: flex;
+    margin-bottom: 30px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.engrenagem {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    margin-bottom: 25xpx;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.barraco {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFF;
+}
+
+.more {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFF;
+
+}
+
+.friends {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFF;
+}
+
+.perlindo {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFF;
+}
+
+.config {
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: #FFF;
+}
+
+.bodyContent {
+    position: relative;
+    bottom: 25%;
+    color: #FFF;
+}
+
+.image2 {
+    position: relative;
+    margin-left: 15px;
+    align-items: center;
+    top: 70px;
+    background-color: #878f97;
+    opacity: 150%;
+    right: 15px;
+    border-bottom: #E9ECEF 10px;
+    height: 60px;
+    width: 226px;
+    margin-bottom: 15px;
+    border-right: #0067F4 5px solid;
+    padding-left: 22px;
+    cursor: pointer;
+    border-bottom: #473c4657 1px solid;
+
+}
+
+.jana {
+    position: relative;
+    font-size: 15px;
+    margin-left: 80px;
+    align-items: center;
+    bottom: 70px;
+
+}
+
+.text {
+    position: relative;
+    align-items: center;
+    left: 15px;
+    top: 50px;
+
+}
+
+.coment {
+    position: relative;
+    font-size: 13px;
+    bottom: 80px;
+    margin-left: 80px;
+}
+
+.bodycontentbellow {
+    position: relative;
+    bottom: 35%;
+    display: inline;
+    align-items: center;
+    padding-left: 13px;
+    color: #FFF;
+
+}
+
+.image3 {
+    position: relative;
+    bottom: 55px;
+    border-bottom: #473c4657 2px solid;
+    margin-left: 5px;
+    cursor: pointer;
+    width: 226;
+    margin-right: 32px;
+    align-items: center;
+    height: 85px;
+
+
+}
+
+.Fael {
+    position: relative;
+    font-size: 15px;
+    margin-left: 80px;
+    align-items: center;
+    bottom: 70px;
+
+}
+
+.msg {
+    align-items: center;
+    position: relative;
+    font-size: 12px;
+    margin-left: 83.5px;
+    bottom: 120px;
+}
+
+.image4 {
+    align-items: center;
+    position: relative;
+    bottom: 70px;
+    margin-right: 30px;
+    margin-left: 5px;
+    border-bottom: #473c4657 2px solid;
+    width: 226;
+    height: 85px;
+}
+
+.Leo {
+    position: relative;
+    font-size: 14px;
+    margin-left: 80px;
+    bottom: 70px;
+    align-items: center;
+}
+
+.msg2 {
+    position: relative;
+    font-size: 11px;
+    align-items: center;
+    margin-left: 90px;
+    bottom: 140px;
+}
+
+.image5 {
+    align-items: center;
+    position: relative;
+    bottom: 86px;
+    margin-right: 30px;
+    margin-left: 6px;
+    border-bottom: #473c4657 2px solid;
+    width: 226px;
+    height: 85px;
+}
+
+.Tami {
+    position: relative;
+    font-size: 12px;
+    margin-left: 80px;
+    bottom: 70px;
+    align-items: center;
+}
+
+.msg3 {
+    position: relative;
+    font-size: 11px;
+    align-items: center;
+    margin-left: 90px;
+    bottom: 140px;
+}
+
+.image6 {
+    align-items: center;
+    position: relative;
+    bottom: 102px;
+    margin-right: 30px;
+    margin-left: 5px;
+}
+
+.Tay {
+    align-items: center;
+    position: relative;
+    color: #FFF;
+    font-size: 12px;
+    margin-left: 80px;
+    bottom: 50px;
+}
+
+.indicator {
+    position: relative;
+    font-size: 20px;
+    color: #0067F4;
+    margin-left: 170%;
+    bottom: 1085px;
+}
+
+.box {
+    position: relative;
+    margin-left: 280px;
+    bottom: 84px;
+}
+
+.retan {
+    position: relative;
+    bottom: 105px;
+    margin-left: 80%;
+    height: 50px;
+    width: 120px;
+    box-sizing: content-box 16px auto;
+    cursor: pointer;
+
+}
+
+.send {
+    color: #E9ECEF;
+    position: relative;
+    margin-left: 40px;
+    height: 50px;
+    width: 120px;
+    align-items: center;
+    bottom: 55px;
+}
+
+input {
+    width: 40%;
+    height: 25px;
+    border: none;
+    border-radius: 18px;    
+    background-color: #E9ECEF;
+}
+
+.zn:placeholder {
+    position: relative;
+    left: 50%;
+    height: 50px;
+}
+
+.zn {
+    padding-left: 8px;
+    position: relative;
+    margin-left: 2px;
+    height: 55px;
+    width: 490px;
+    right: 80px;
+    top: 928px;
+    bottom: 10px;
+    border-radius: 25px;
+
+}
+
+.sorriso {
+    position: relative;
+    top: 935px;
+    bottom: 10 auto;
+    right: 700px;
+
+}
+
+.Mic {
+    position: relative;
+    margin-left: 422px;
+    bottom: 50px;
+}
+
+.core {
+    position: relative;
+    right: 170px;
+    bottom: 48px;
+}
+
+.call {
+    position: relative;
+    bottom: 980px;
+    left: 150px;
+}
+
+.ret {
+    position: relative;
+    bottom: 1025px;
+    left: 215px;
+}
+
+.ola {
+    position: relative;
+    bottom: 920px;
+    left: 150px;
+}
+
+.oi {
+    position: relative;
+    bottom: 1050px;
+    right: 750px;
+}
+
+.tudo {
+    position: relative;
+    bottom: 950px;
+    right: 750px;
+}
+
+.bem {
+    position: relative;
+    bottom: 950px;
+    left: 110px;
+}
+
+.tudo1 {
+    position: relative;
+    bottom: 950px;
+    right: 750px;
+}
+
+.post {
+    position: relative;
+    bottom: 948px;
+    right: 750px;
+}
+
+.question {
+    position: relative;
+    bottom: 950px;
+    left: 50px;
+}
+
+.like {
+    position: relative;
+    bottom: 948px;
+    right: 750px;
+}
+
+.hora {
+    position: relative;
+    bottom: 1480px;
+    right: 650px;
+}
+
+.hora1 {
+    position: relative;
+    bottom: 1440px;
+    left: 95px;
+}
+.hora2{
+    position: relative;
+    bottom: 1365px;
+    right: 610px;
+}
+.hora4{
+    position: relative;
+    bottom: 1330px;
+    left: 60px;
+}
+.hora5{
+    position: relative;
+    bottom: 1200px;
+    right: 340px;
+}
+.hora6{
+    position: relative;
+    bottom: 1160px;
+    right: 2px;
+}
+.hora7{
+    position: relative;
+    bottom: 1120px;
+    right: 450px;
+}
