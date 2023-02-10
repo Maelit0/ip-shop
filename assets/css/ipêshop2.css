@@ -318,7 +318,7 @@ input {
     width: 40%;
     height: 25px;
     border: none;
-    border-radius: 18px;    
+    border-radius: 18px;
     background-color: #E9ECEF;
 }
 
@@ -432,27 +432,32 @@ input {
     bottom: 1440px;
     left: 95px;
 }
-.hora2{
+
+.hora2 {
     position: relative;
     bottom: 1365px;
     right: 610px;
 }
-.hora4{
+
+.hora4 {
     position: relative;
     bottom: 1330px;
     left: 60px;
 }
-.hora5{
+
+.hora5 {
     position: relative;
     bottom: 1200px;
     right: 340px;
 }
-.hora6{
+
+.hora6 {
     position: relative;
     bottom: 1160px;
     right: 2px;
 }
-.hora7{
+
+.hora7 {
     position: relative;
     bottom: 1120px;
     right: 450px;
